@@ -84,11 +84,7 @@ body::before {
     height: 430px;
 }
 
-.personagem-selecionado .personagem-grande:hover {
-    background-image: url(./src/assets/cyclops-xmen.gif);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 
 .personagem-selecionado .nome-personagem {
     border-bottom: 2px solid #47f4ff;
